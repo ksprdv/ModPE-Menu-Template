@@ -14,6 +14,7 @@ Screenshots with GUI
 Only two hooks are shown in the script:
 * newLevel - called entering the world
 * leaveGame - called when exiting the world
+
 To explore other examples of GUI and Hook functions, I will leave links to documentaries.
 
 Links to programs:
