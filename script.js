@@ -1,4 +1,4 @@
-// writed by ksprdv in 2024
+// made by ksprdv in 2024
 
 var btn = null;
 var menu = null;
